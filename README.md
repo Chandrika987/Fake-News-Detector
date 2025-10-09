@@ -1,7 +1,9 @@
-![Fake News Detector Banner](https://github.com/Chandrika987/Fake-News-Detector/blob/main/banner.png)
+
 
 # Fake-News-Detector
 # Fake News Detector
+![Project Banner](banner.png)
+
 
 This project uses **Machine Learning** to detect whether a news article is **real or fake** using text classification.
 
