@@ -1,4 +1,4 @@
-![Fake News Detector Banner](https://raw.githubusercontent.com/Chandrika987/Fake-News-Detector/main/banner.png)
+![Fake News Detector Banner](https://github.com/Chandrika987/Fake-News-Detector/blob/main/banner.png)
 
 # Fake-News-Detector
 # Fake News Detector
