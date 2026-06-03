@@ -213,7 +213,7 @@ st.markdown(
     """
       <footer class="footer-section">
         <span>The Daily Truth Checker</span>
-        <span>Frontend refresh only. Backend behavior and prediction logic remain unchanged.</span>
+        
       </footer>
     </main>
     """,
