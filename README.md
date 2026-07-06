@@ -64,7 +64,4 @@ It helps readers identify misinformation and promotes media literacy.
 - **Create a browser extension for real-time fake news checking
 - **Improve dataset quality with live web scraping
 
-## Author
 
-- Pala Chandrika
-- Beginner in Data Science & AI
